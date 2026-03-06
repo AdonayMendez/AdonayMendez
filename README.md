@@ -17,11 +17,9 @@ Aspiring SWE on pace to major in CS (Sophomore)
 ##
 
 ⚡ Fun facts:
-- Like to sing
 - Love Programming
 - Want to learn how to play the guitar
 - Love planes
-- Everything
 
 
 <!--
